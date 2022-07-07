@@ -1,6 +1,6 @@
 {
-  "pack": {
-    "pack_format": 1,
-    "description": "The Definitive Red4 Resource Pack"
-  }
+   "pack": {
+      "pack_format": 9,
+      "description": "The Definitive Red4Craft Resource Pack (mc java 1.19)"
+   }
 }
