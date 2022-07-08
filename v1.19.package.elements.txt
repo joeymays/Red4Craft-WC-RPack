@@ -4101,99 +4101,99 @@ models	item	zombie_horse_spawn_egg.json
 models	item	zombie_spawn_egg.json				
 models	item	zombie_villager_spawn_egg.json				
 models	item	zombified_piglin_spawn_egg.json				
-particles	ambient_entity_effect.json					
-particles	angry_villager.json					
-particles	ash.json					
-particles	block.json					
-particles	block_marker.json					
-particles	bubble.json					
-particles	bubble_column_up.json					
-particles	bubble_pop.json					
-particles	campfire_cosy_smoke.json					
-particles	campfire_signal_smoke.json					
-particles	cloud.json					
-particles	composter.json					
-particles	crimson_spore.json					
-particles	crit.json					
-particles	current_down.json					
-particles	damage_indicator.json					
-particles	dolphin.json					
-particles	dragon_breath.json					
-particles	dripping_dripstone_lava.json					
-particles	dripping_dripstone_water.json					
-particles	dripping_honey.json					
-particles	dripping_lava.json					
-particles	dripping_obsidian_tear.json					
-particles	dripping_water.json					
-particles	dust.json					
-particles	dust_color_transition.json					
-particles	effect.json					
-particles	elder_guardian.json					
-particles	electric_spark.json					
-particles	enchant.json					
-particles	enchanted_hit.json					
-particles	end_rod.json					
-particles	entity_effect.json					
-particles	explosion.json					
-particles	explosion_emitter.json					
-particles	falling_dripstone_lava.json					
-particles	falling_dripstone_water.json					
-particles	falling_dust.json					
-particles	falling_honey.json					
-particles	falling_lava.json					
-particles	falling_nectar.json					
-particles	falling_obsidian_tear.json					
-particles	falling_spore_blossom.json					
-particles	falling_water.json					
-particles	firework.json					
-particles	fishing.json					
-particles	flame.json					
-particles	flash.json					
-particles	glow.json					
-particles	glow_squid_ink.json					
-particles	happy_villager.json					
-particles	heart.json					
-particles	instant_effect.json					
-particles	item.json					
-particles	item_slime.json					
-particles	item_snowball.json					
-particles	landing_honey.json					
-particles	landing_lava.json					
-particles	landing_obsidian_tear.json					
-particles	large_smoke.json					
-particles	lava.json					
-particles	mycelium.json					
-particles	nautilus.json					
-particles	note.json					
-particles	poof.json					
-particles	portal.json					
-particles	rain.json					
-particles	reverse_portal.json					
-particles	scrape.json					
-particles	sculk_charge.json					
-particles	sculk_charge_pop.json					
-particles	sculk_soul.json					
-particles	shriek.json					
-particles	small_flame.json					
-particles	smoke.json					
-particles	sneeze.json					
-particles	snowflake.json					
-particles	sonic_boom.json					
-particles	soul.json					
-particles	soul_fire_flame.json					
-particles	spit.json					
-particles	splash.json					
-particles	spore_blossom_air.json					
-particles	squid_ink.json					
-particles	sweep_attack.json					
-particles	totem_of_undying.json					
-particles	underwater.json					
-particles	vibration.json					
-particles	warped_spore.json					
-particles	wax_off.json					
-particles	wax_on.json					
-particles	white_ash.json					
-particles	witch.json					
+particles	ambient_entity_effect.json				yes	vanilla
+particles	angry_villager.json				yes	vanilla
+particles	ash.json				yes	vanilla
+particles	block.json				yes	vanilla
+particles	block_marker.json				yes	vanilla
+particles	bubble.json				yes	vanilla
+particles	bubble_column_up.json				yes	vanilla
+particles	bubble_pop.json				yes	vanilla
+particles	campfire_cosy_smoke.json				yes	vanilla
+particles	campfire_signal_smoke.json				yes	vanilla
+particles	cloud.json				yes	vanilla
+particles	composter.json				yes	vanilla
+particles	crimson_spore.json				yes	vanilla
+particles	crit.json				yes	vanilla
+particles	current_down.json				yes	vanilla
+particles	damage_indicator.json				yes	vanilla
+particles	dolphin.json				yes	vanilla
+particles	dragon_breath.json				yes	vanilla
+particles	dripping_dripstone_lava.json				yes	vanilla
+particles	dripping_dripstone_water.json				yes	vanilla
+particles	dripping_honey.json				yes	vanilla
+particles	dripping_lava.json				yes	vanilla
+particles	dripping_obsidian_tear.json				yes	vanilla
+particles	dripping_water.json				yes	vanilla
+particles	dust.json				yes	vanilla
+particles	dust_color_transition.json				yes	vanilla
+particles	effect.json				yes	vanilla
+particles	elder_guardian.json				yes	vanilla
+particles	electric_spark.json				yes	vanilla
+particles	enchant.json				yes	vanilla
+particles	enchanted_hit.json				yes	vanilla
+particles	end_rod.json				yes	vanilla
+particles	entity_effect.json				yes	vanilla
+particles	explosion.json				yes	vanilla
+particles	explosion_emitter.json				yes	vanilla
+particles	falling_dripstone_lava.json				yes	vanilla
+particles	falling_dripstone_water.json				yes	vanilla
+particles	falling_dust.json				yes	vanilla
+particles	falling_honey.json				yes	vanilla
+particles	falling_lava.json				yes	vanilla
+particles	falling_nectar.json				yes	vanilla
+particles	falling_obsidian_tear.json				yes	vanilla
+particles	falling_spore_blossom.json				yes	vanilla
+particles	falling_water.json				yes	vanilla
+particles	firework.json				yes	vanilla
+particles	fishing.json				yes	vanilla
+particles	flame.json				yes	vanilla
+particles	flash.json				yes	vanilla
+particles	glow.json				yes	vanilla
+particles	glow_squid_ink.json				yes	vanilla
+particles	happy_villager.json				yes	vanilla
+particles	heart.json				yes	vanilla
+particles	instant_effect.json				yes	vanilla
+particles	item.json				yes	vanilla
+particles	item_slime.json				yes	vanilla
+particles	item_snowball.json				yes	vanilla
+particles	landing_honey.json				yes	vanilla
+particles	landing_lava.json				yes	vanilla
+particles	landing_obsidian_tear.json				yes	vanilla
+particles	large_smoke.json				yes	vanilla
+particles	lava.json				yes	vanilla
+particles	mycelium.json				yes	vanilla
+particles	nautilus.json				yes	vanilla
+particles	note.json				yes	vanilla
+particles	poof.json				yes	vanilla
+particles	portal.json				yes	vanilla
+particles	rain.json				yes	vanilla
+particles	reverse_portal.json				yes	vanilla
+particles	scrape.json				yes	vanilla
+particles	sculk_charge.json				yes	vanilla
+particles	sculk_charge_pop.json				yes	vanilla
+particles	sculk_soul.json				yes	vanilla
+particles	shriek.json				yes	vanilla
+particles	small_flame.json				yes	vanilla
+particles	smoke.json				yes	vanilla
+particles	sneeze.json				yes	vanilla
+particles	snowflake.json				yes	vanilla
+particles	sonic_boom.json				yes	vanilla
+particles	soul.json				yes	vanilla
+particles	soul_fire_flame.json				yes	vanilla
+particles	spit.json				yes	vanilla
+particles	splash.json				yes	vanilla
+particles	spore_blossom_air.json				yes	vanilla
+particles	squid_ink.json				yes	vanilla
+particles	sweep_attack.json				yes	vanilla
+particles	totem_of_undying.json				yes	vanilla
+particles	underwater.json				yes	vanilla
+particles	vibration.json				yes	vanilla
+particles	warped_spore.json				yes	vanilla
+particles	wax_off.json				yes	vanilla
+particles	wax_on.json				yes	vanilla
+particles	white_ash.json				yes	vanilla
+particles	witch.json				yes	vanilla
 regional_compliancies.json					yes	vanilla
 shaders	core	blit_screen.fsh			yes	vanilla
 shaders	core	blit_screen.json			yes	vanilla
@@ -5370,9 +5370,9 @@ textures	block	yellow_stained_glass.png
 textures	block	yellow_stained_glass_pane_top.png				
 textures	block	yellow_terracotta.png				
 textures	block	yellow_wool.png				
-textures	colormap	foliage.png				
-textures	colormap	grass.png				
-textures	effect	dither.png				
+textures	colormap	foliage.png			yes	vanilla
+textures	colormap	grass.png			yes	vanilla
+textures	effect	dither.png			yes	vanilla
 textures	entity	alex.png				
 textures	entity	allay	allay.png			
 textures	entity	armorstand	wood.png			
@@ -6046,71 +6046,71 @@ textures	font	unicode_page_fc.png			yes	vanilla
 textures	font	unicode_page_fd.png			yes	vanilla
 textures	font	unicode_page_fe.png			yes	vanilla
 textures	font	unicode_page_ff.png			yes	vanilla
-textures	gui	accessibility.png				
-textures	gui	advancements	backgrounds	adventure.png		
-textures	gui	advancements	backgrounds	end.png		
-textures	gui	advancements	backgrounds	husbandry.png		
-textures	gui	advancements	backgrounds	nether.png		
-textures	gui	advancements	backgrounds	stone.png		
-textures	gui	advancements	tabs.png			
-textures	gui	advancements	widgets.png			
-textures	gui	advancements	window.png			
-textures	gui	bars.png				
-textures	gui	book.png				
-textures	gui	chat_tags.png				
-textures	gui	checkbox.png				
-textures	gui	container	anvil.png			
-textures	gui	container	beacon.png			
-textures	gui	container	blast_furnace.png			
-textures	gui	container	brewing_stand.png			
-textures	gui	container	bundle.png			
-textures	gui	container	cartography_table.png			
-textures	gui	container	crafting_table.png			
-textures	gui	container	creative_inventory	tab_inventory.png		
-textures	gui	container	creative_inventory	tab_item_search.png		
-textures	gui	container	creative_inventory	tab_items.png		
-textures	gui	container	creative_inventory	tabs.png		
-textures	gui	container	dispenser.png			
-textures	gui	container	enchanting_table.png			
-textures	gui	container	furnace.png			
-textures	gui	container	gamemode_switcher.png			
-textures	gui	container	generic_54.png			
-textures	gui	container	grindstone.png			
-textures	gui	container	hopper.png			
-textures	gui	container	horse.png			
-textures	gui	container	inventory.png			
-textures	gui	container	loom.png			
-textures	gui	container	shulker_box.png			
-textures	gui	container	smithing.png			
-textures	gui	container	smoker.png			
-textures	gui	container	stats_icons.png			
-textures	gui	container	stonecutter.png			
-textures	gui	container	villager2.png			
-textures	gui	demo_background.png				
-textures	gui	icons.png				
-textures	gui	options_background.png				
-textures	gui	presets	isles.png			
-textures	gui	recipe_book.png				
-textures	gui	recipe_button.png				
-textures	gui	report_button.png				
-textures	gui	resource_packs.png				
-textures	gui	server_selection.png				
-textures	gui	social_interactions.png				
-textures	gui	spectator_widgets.png				
-textures	gui	stream_indicator.png				
-textures	gui	title	background	panorama_0.png		
-textures	gui	title	background	panorama_1.png		
-textures	gui	title	background	panorama_2.png		
-textures	gui	title	background	panorama_3.png		
-textures	gui	title	background	panorama_4.png		
-textures	gui	title	background	panorama_5.png		
-textures	gui	title	background	panorama_overlay.png		
-textures	gui	title	edition.png			
+textures	gui	accessibility.png			yes	vanilla
+textures	gui	advancements	backgrounds	adventure.png	yes	vanilla
+textures	gui	advancements	backgrounds	end.png	yes	vanilla
+textures	gui	advancements	backgrounds	husbandry.png	yes	vanilla
+textures	gui	advancements	backgrounds	nether.png	yes	vanilla
+textures	gui	advancements	backgrounds	stone.png	yes	vanilla
+textures	gui	advancements	tabs.png		yes	vanilla
+textures	gui	advancements	widgets.png		yes	vanilla
+textures	gui	advancements	window.png		yes	vanilla
+textures	gui	bars.png			yes	vanilla
+textures	gui	book.png			yes	vanilla
+textures	gui	chat_tags.png			yes	vanilla
+textures	gui	checkbox.png			yes	vanilla
+textures	gui	container	anvil.png		yes	vanilla
+textures	gui	container	beacon.png		yes	vanilla
+textures	gui	container	blast_furnace.png		yes	vanilla
+textures	gui	container	brewing_stand.png		yes	vanilla
+textures	gui	container	bundle.png		yes	vanilla
+textures	gui	container	cartography_table.png		yes	vanilla
+textures	gui	container	crafting_table.png		yes	vanilla
+textures	gui	container	creative_inventory	tab_inventory.png	yes	vanilla
+textures	gui	container	creative_inventory	tab_item_search.png	yes	vanilla
+textures	gui	container	creative_inventory	tab_items.png	yes	vanilla
+textures	gui	container	creative_inventory	tabs.png	yes	vanilla
+textures	gui	container	dispenser.png		yes	vanilla
+textures	gui	container	enchanting_table.png		yes	vanilla
+textures	gui	container	furnace.png		yes	vanilla
+textures	gui	container	gamemode_switcher.png		yes	vanilla
+textures	gui	container	generic_54.png		yes	vanilla
+textures	gui	container	grindstone.png		yes	vanilla
+textures	gui	container	hopper.png		yes	vanilla
+textures	gui	container	horse.png		yes	vanilla
+textures	gui	container	inventory.png		yes	vanilla
+textures	gui	container	loom.png		yes	vanilla
+textures	gui	container	shulker_box.png		yes	vanilla
+textures	gui	container	smithing.png		yes	vanilla
+textures	gui	container	smoker.png		yes	vanilla
+textures	gui	container	stats_icons.png		yes	vanilla
+textures	gui	container	stonecutter.png		yes	vanilla
+textures	gui	container	villager2.png		yes	vanilla
+textures	gui	demo_background.png			yes	vanilla
+textures	gui	icons.png			yes	vanilla
+textures	gui	options_background.png			yes	vanilla
+textures	gui	presets	isles.png		yes	vanilla
+textures	gui	recipe_book.png			yes	vanilla
+textures	gui	recipe_button.png			yes	vanilla
+textures	gui	report_button.png			yes	vanilla
+textures	gui	resource_packs.png			yes	vanilla
+textures	gui	server_selection.png			yes	vanilla
+textures	gui	social_interactions.png			yes	vanilla
+textures	gui	spectator_widgets.png			yes	vanilla
+textures	gui	stream_indicator.png			yes	vanilla
+textures	gui	title	background	panorama_0.png	yes	vanilla
+textures	gui	title	background	panorama_1.png	yes	vanilla
+textures	gui	title	background	panorama_2.png	yes	vanilla
+textures	gui	title	background	panorama_3.png	yes	vanilla
+textures	gui	title	background	panorama_4.png	yes	vanilla
+textures	gui	title	background	panorama_5.png	yes	vanilla
+textures	gui	title	background	panorama_overlay.png	yes	vanilla
+textures	gui	title	edition.png		yes	vanilla
 textures	gui	title	minecraft.png		yes	custom
 textures	gui	title	mojangstudios.png		yes	vanilla
-textures	gui	toasts.png				
-textures	gui	widgets.png				
-textures	gui	world_selection.png				
+textures	gui	toasts.png			yes	vanilla
+textures	gui	widgets.png			yes	vanilla
+textures	gui	world_selection.png			yes	vanilla
 textures	item	acacia_boat.png				
 textures	item	acacia_chest_boat.png				
 textures	item	acacia_door.png				
@@ -6635,39 +6635,39 @@ textures	misc	unknown_server.png			yes	vanilla
 textures	misc	vignette.png			yes	vanilla
 textures	misc	vignette.png.mcmeta			yes	vanilla
 textures	misc	white.png			yes	vanilla
-textures	mob_effect	absorption.png				
-textures	mob_effect	bad_omen.png				
-textures	mob_effect	blindness.png				
-textures	mob_effect	conduit_power.png				
-textures	mob_effect	darkness.png				
-textures	mob_effect	dolphins_grace.png				
-textures	mob_effect	fire_resistance.png				
-textures	mob_effect	glowing.png				
-textures	mob_effect	haste.png				
-textures	mob_effect	health_boost.png				
-textures	mob_effect	hero_of_the_village.png				
-textures	mob_effect	hunger.png				
-textures	mob_effect	instant_damage.png				
-textures	mob_effect	instant_health.png				
-textures	mob_effect	invisibility.png				
-textures	mob_effect	jump_boost.png				
-textures	mob_effect	levitation.png				
-textures	mob_effect	luck.png				
-textures	mob_effect	mining_fatigue.png				
-textures	mob_effect	nausea.png				
-textures	mob_effect	night_vision.png				
-textures	mob_effect	poison.png				
-textures	mob_effect	regeneration.png				
-textures	mob_effect	resistance.png				
-textures	mob_effect	saturation.png				
-textures	mob_effect	slow_falling.png				
-textures	mob_effect	slowness.png				
-textures	mob_effect	speed.png				
-textures	mob_effect	strength.png				
-textures	mob_effect	unluck.png				
-textures	mob_effect	water_breathing.png				
-textures	mob_effect	weakness.png				
-textures	mob_effect	wither.png				
+textures	mob_effect	absorption.png			yes	vanilla
+textures	mob_effect	bad_omen.png			yes	vanilla
+textures	mob_effect	blindness.png			yes	vanilla
+textures	mob_effect	conduit_power.png			yes	vanilla
+textures	mob_effect	darkness.png			yes	vanilla
+textures	mob_effect	dolphins_grace.png			yes	vanilla
+textures	mob_effect	fire_resistance.png			yes	vanilla
+textures	mob_effect	glowing.png			yes	vanilla
+textures	mob_effect	haste.png			yes	vanilla
+textures	mob_effect	health_boost.png			yes	vanilla
+textures	mob_effect	hero_of_the_village.png			yes	vanilla
+textures	mob_effect	hunger.png			yes	vanilla
+textures	mob_effect	instant_damage.png			yes	vanilla
+textures	mob_effect	instant_health.png			yes	vanilla
+textures	mob_effect	invisibility.png			yes	vanilla
+textures	mob_effect	jump_boost.png			yes	vanilla
+textures	mob_effect	levitation.png			yes	vanilla
+textures	mob_effect	luck.png			yes	vanilla
+textures	mob_effect	mining_fatigue.png			yes	vanilla
+textures	mob_effect	nausea.png			yes	vanilla
+textures	mob_effect	night_vision.png			yes	vanilla
+textures	mob_effect	poison.png			yes	vanilla
+textures	mob_effect	regeneration.png			yes	vanilla
+textures	mob_effect	resistance.png			yes	vanilla
+textures	mob_effect	saturation.png			yes	vanilla
+textures	mob_effect	slow_falling.png			yes	vanilla
+textures	mob_effect	slowness.png			yes	vanilla
+textures	mob_effect	speed.png			yes	vanilla
+textures	mob_effect	strength.png			yes	vanilla
+textures	mob_effect	unluck.png			yes	vanilla
+textures	mob_effect	water_breathing.png			yes	vanilla
+textures	mob_effect	weakness.png			yes	vanilla
+textures	mob_effect	wither.png			yes	vanilla
 textures	models	armor	chainmail_layer_1.png			
 textures	models	armor	chainmail_layer_2.png			
 textures	models	armor	diamond_layer_1.png			
@@ -6714,183 +6714,183 @@ textures	painting	wasteland.png			yes	WesterosCraftRP-1.16.5
 textures	painting	water.png			yes	WesterosCraftRP-1.16.5
 textures	painting	wind.png			yes	WesterosCraftRP-1.16.5
 textures	painting	wither.png			yes	WesterosCraftRP-1.16.5
-textures	particle	angry.png				
-textures	particle	big_smoke_0.png				
-textures	particle	big_smoke_1.png				
-textures	particle	big_smoke_10.png				
-textures	particle	big_smoke_11.png				
-textures	particle	big_smoke_2.png				
-textures	particle	big_smoke_3.png				
-textures	particle	big_smoke_4.png				
-textures	particle	big_smoke_5.png				
-textures	particle	big_smoke_6.png				
-textures	particle	big_smoke_7.png				
-textures	particle	big_smoke_8.png				
-textures	particle	big_smoke_9.png				
-textures	particle	bubble.png				
-textures	particle	bubble_pop_0.png				
-textures	particle	bubble_pop_1.png				
-textures	particle	bubble_pop_2.png				
-textures	particle	bubble_pop_3.png				
-textures	particle	bubble_pop_4.png				
-textures	particle	critical_hit.png				
-textures	particle	damage.png				
-textures	particle	drip_fall.png				
-textures	particle	drip_hang.png				
-textures	particle	drip_land.png				
-textures	particle	effect_0.png				
-textures	particle	effect_1.png				
-textures	particle	effect_2.png				
-textures	particle	effect_3.png				
-textures	particle	effect_4.png				
-textures	particle	effect_5.png				
-textures	particle	effect_6.png				
-textures	particle	effect_7.png				
-textures	particle	enchanted_hit.png				
-textures	particle	explosion_0.png				
-textures	particle	explosion_1.png				
-textures	particle	explosion_10.png				
-textures	particle	explosion_11.png				
-textures	particle	explosion_12.png				
-textures	particle	explosion_13.png				
-textures	particle	explosion_14.png				
-textures	particle	explosion_15.png				
-textures	particle	explosion_2.png				
-textures	particle	explosion_3.png				
-textures	particle	explosion_4.png				
-textures	particle	explosion_5.png				
-textures	particle	explosion_6.png				
-textures	particle	explosion_7.png				
-textures	particle	explosion_8.png				
-textures	particle	explosion_9.png				
-textures	particle	flame.png				
-textures	particle	flash.png				
-textures	particle	generic_0.png				
-textures	particle	generic_1.png				
-textures	particle	generic_2.png				
-textures	particle	generic_3.png				
-textures	particle	generic_4.png				
-textures	particle	generic_5.png				
-textures	particle	generic_6.png				
-textures	particle	generic_7.png				
-textures	particle	glint.png				
-textures	particle	glitter_0.png				
-textures	particle	glitter_1.png				
-textures	particle	glitter_2.png				
-textures	particle	glitter_3.png				
-textures	particle	glitter_4.png				
-textures	particle	glitter_5.png				
-textures	particle	glitter_6.png				
-textures	particle	glitter_7.png				
-textures	particle	glow.png				
-textures	particle	heart.png				
-textures	particle	lava.png				
-textures	particle	nautilus.png				
-textures	particle	note.png				
-textures	particle	sculk_charge_0.png				
-textures	particle	sculk_charge_1.png				
-textures	particle	sculk_charge_2.png				
-textures	particle	sculk_charge_3.png				
-textures	particle	sculk_charge_4.png				
-textures	particle	sculk_charge_5.png				
-textures	particle	sculk_charge_6.png				
-textures	particle	sculk_charge_pop_0.png				
-textures	particle	sculk_charge_pop_1.png				
-textures	particle	sculk_charge_pop_2.png				
-textures	particle	sculk_charge_pop_3.png				
-textures	particle	sculk_soul_0.png				
-textures	particle	sculk_soul_1.png				
-textures	particle	sculk_soul_10.png				
-textures	particle	sculk_soul_2.png				
-textures	particle	sculk_soul_3.png				
-textures	particle	sculk_soul_4.png				
-textures	particle	sculk_soul_5.png				
-textures	particle	sculk_soul_6.png				
-textures	particle	sculk_soul_7.png				
-textures	particle	sculk_soul_8.png				
-textures	particle	sculk_soul_9.png				
-textures	particle	sga_a.png				
-textures	particle	sga_b.png				
-textures	particle	sga_c.png				
-textures	particle	sga_d.png				
-textures	particle	sga_e.png				
-textures	particle	sga_f.png				
-textures	particle	sga_g.png				
-textures	particle	sga_h.png				
-textures	particle	sga_i.png				
-textures	particle	sga_j.png				
-textures	particle	sga_k.png				
-textures	particle	sga_l.png				
-textures	particle	sga_m.png				
-textures	particle	sga_n.png				
-textures	particle	sga_o.png				
-textures	particle	sga_p.png				
-textures	particle	sga_q.png				
-textures	particle	sga_r.png				
-textures	particle	sga_s.png				
-textures	particle	sga_t.png				
-textures	particle	sga_u.png				
-textures	particle	sga_v.png				
-textures	particle	sga_w.png				
-textures	particle	sga_x.png				
-textures	particle	sga_y.png				
-textures	particle	sga_z.png				
-textures	particle	shriek.png				
-textures	particle	sonic_boom_0.png				
-textures	particle	sonic_boom_1.png				
-textures	particle	sonic_boom_10.png				
-textures	particle	sonic_boom_11.png				
-textures	particle	sonic_boom_12.png				
-textures	particle	sonic_boom_13.png				
-textures	particle	sonic_boom_14.png				
-textures	particle	sonic_boom_15.png				
-textures	particle	sonic_boom_2.png				
-textures	particle	sonic_boom_3.png				
-textures	particle	sonic_boom_4.png				
-textures	particle	sonic_boom_5.png				
-textures	particle	sonic_boom_6.png				
-textures	particle	sonic_boom_7.png				
-textures	particle	sonic_boom_8.png				
-textures	particle	sonic_boom_9.png				
-textures	particle	soul_0.png				
-textures	particle	soul_1.png				
-textures	particle	soul_10.png				
-textures	particle	soul_2.png				
-textures	particle	soul_3.png				
-textures	particle	soul_4.png				
-textures	particle	soul_5.png				
-textures	particle	soul_6.png				
-textures	particle	soul_7.png				
-textures	particle	soul_8.png				
-textures	particle	soul_9.png				
-textures	particle	soul_fire_flame.png				
-textures	particle	spark_0.png				
-textures	particle	spark_1.png				
-textures	particle	spark_2.png				
-textures	particle	spark_3.png				
-textures	particle	spark_4.png				
-textures	particle	spark_5.png				
-textures	particle	spark_6.png				
-textures	particle	spark_7.png				
-textures	particle	spell_0.png				
-textures	particle	spell_1.png				
-textures	particle	spell_2.png				
-textures	particle	spell_3.png				
-textures	particle	spell_4.png				
-textures	particle	spell_5.png				
-textures	particle	spell_6.png				
-textures	particle	spell_7.png				
-textures	particle	splash_0.png				
-textures	particle	splash_1.png				
-textures	particle	splash_2.png				
-textures	particle	splash_3.png				
-textures	particle	sweep_0.png				
-textures	particle	sweep_1.png				
-textures	particle	sweep_2.png				
-textures	particle	sweep_3.png				
-textures	particle	sweep_4.png				
-textures	particle	sweep_5.png				
-textures	particle	sweep_6.png				
-textures	particle	sweep_7.png				
-textures	particle	vibration.png				
-textures	particle	vibration.png.mcmeta				
+textures	particle	angry.png			yes	vanilla
+textures	particle	big_smoke_0.png			yes	vanilla
+textures	particle	big_smoke_1.png			yes	vanilla
+textures	particle	big_smoke_10.png			yes	vanilla
+textures	particle	big_smoke_11.png			yes	vanilla
+textures	particle	big_smoke_2.png			yes	vanilla
+textures	particle	big_smoke_3.png			yes	vanilla
+textures	particle	big_smoke_4.png			yes	vanilla
+textures	particle	big_smoke_5.png			yes	vanilla
+textures	particle	big_smoke_6.png			yes	vanilla
+textures	particle	big_smoke_7.png			yes	vanilla
+textures	particle	big_smoke_8.png			yes	vanilla
+textures	particle	big_smoke_9.png			yes	vanilla
+textures	particle	bubble.png			yes	vanilla
+textures	particle	bubble_pop_0.png			yes	vanilla
+textures	particle	bubble_pop_1.png			yes	vanilla
+textures	particle	bubble_pop_2.png			yes	vanilla
+textures	particle	bubble_pop_3.png			yes	vanilla
+textures	particle	bubble_pop_4.png			yes	vanilla
+textures	particle	critical_hit.png			yes	vanilla
+textures	particle	damage.png			yes	vanilla
+textures	particle	drip_fall.png			yes	vanilla
+textures	particle	drip_hang.png			yes	vanilla
+textures	particle	drip_land.png			yes	vanilla
+textures	particle	effect_0.png			yes	vanilla
+textures	particle	effect_1.png			yes	vanilla
+textures	particle	effect_2.png			yes	vanilla
+textures	particle	effect_3.png			yes	vanilla
+textures	particle	effect_4.png			yes	vanilla
+textures	particle	effect_5.png			yes	vanilla
+textures	particle	effect_6.png			yes	vanilla
+textures	particle	effect_7.png			yes	vanilla
+textures	particle	enchanted_hit.png			yes	vanilla
+textures	particle	explosion_0.png			yes	vanilla
+textures	particle	explosion_1.png			yes	vanilla
+textures	particle	explosion_10.png			yes	vanilla
+textures	particle	explosion_11.png			yes	vanilla
+textures	particle	explosion_12.png			yes	vanilla
+textures	particle	explosion_13.png			yes	vanilla
+textures	particle	explosion_14.png			yes	vanilla
+textures	particle	explosion_15.png			yes	vanilla
+textures	particle	explosion_2.png			yes	vanilla
+textures	particle	explosion_3.png			yes	vanilla
+textures	particle	explosion_4.png			yes	vanilla
+textures	particle	explosion_5.png			yes	vanilla
+textures	particle	explosion_6.png			yes	vanilla
+textures	particle	explosion_7.png			yes	vanilla
+textures	particle	explosion_8.png			yes	vanilla
+textures	particle	explosion_9.png			yes	vanilla
+textures	particle	flame.png			yes	vanilla
+textures	particle	flash.png			yes	vanilla
+textures	particle	generic_0.png			yes	vanilla
+textures	particle	generic_1.png			yes	vanilla
+textures	particle	generic_2.png			yes	vanilla
+textures	particle	generic_3.png			yes	vanilla
+textures	particle	generic_4.png			yes	vanilla
+textures	particle	generic_5.png			yes	vanilla
+textures	particle	generic_6.png			yes	vanilla
+textures	particle	generic_7.png			yes	vanilla
+textures	particle	glint.png			yes	vanilla
+textures	particle	glitter_0.png			yes	vanilla
+textures	particle	glitter_1.png			yes	vanilla
+textures	particle	glitter_2.png			yes	vanilla
+textures	particle	glitter_3.png			yes	vanilla
+textures	particle	glitter_4.png			yes	vanilla
+textures	particle	glitter_5.png			yes	vanilla
+textures	particle	glitter_6.png			yes	vanilla
+textures	particle	glitter_7.png			yes	vanilla
+textures	particle	glow.png			yes	vanilla
+textures	particle	heart.png			yes	vanilla
+textures	particle	lava.png			yes	vanilla
+textures	particle	nautilus.png			yes	vanilla
+textures	particle	note.png			yes	vanilla
+textures	particle	sculk_charge_0.png			yes	vanilla
+textures	particle	sculk_charge_1.png			yes	vanilla
+textures	particle	sculk_charge_2.png			yes	vanilla
+textures	particle	sculk_charge_3.png			yes	vanilla
+textures	particle	sculk_charge_4.png			yes	vanilla
+textures	particle	sculk_charge_5.png			yes	vanilla
+textures	particle	sculk_charge_6.png			yes	vanilla
+textures	particle	sculk_charge_pop_0.png			yes	vanilla
+textures	particle	sculk_charge_pop_1.png			yes	vanilla
+textures	particle	sculk_charge_pop_2.png			yes	vanilla
+textures	particle	sculk_charge_pop_3.png			yes	vanilla
+textures	particle	sculk_soul_0.png			yes	vanilla
+textures	particle	sculk_soul_1.png			yes	vanilla
+textures	particle	sculk_soul_10.png			yes	vanilla
+textures	particle	sculk_soul_2.png			yes	vanilla
+textures	particle	sculk_soul_3.png			yes	vanilla
+textures	particle	sculk_soul_4.png			yes	vanilla
+textures	particle	sculk_soul_5.png			yes	vanilla
+textures	particle	sculk_soul_6.png			yes	vanilla
+textures	particle	sculk_soul_7.png			yes	vanilla
+textures	particle	sculk_soul_8.png			yes	vanilla
+textures	particle	sculk_soul_9.png			yes	vanilla
+textures	particle	sga_a.png			yes	vanilla
+textures	particle	sga_b.png			yes	vanilla
+textures	particle	sga_c.png			yes	vanilla
+textures	particle	sga_d.png			yes	vanilla
+textures	particle	sga_e.png			yes	vanilla
+textures	particle	sga_f.png			yes	vanilla
+textures	particle	sga_g.png			yes	vanilla
+textures	particle	sga_h.png			yes	vanilla
+textures	particle	sga_i.png			yes	vanilla
+textures	particle	sga_j.png			yes	vanilla
+textures	particle	sga_k.png			yes	vanilla
+textures	particle	sga_l.png			yes	vanilla
+textures	particle	sga_m.png			yes	vanilla
+textures	particle	sga_n.png			yes	vanilla
+textures	particle	sga_o.png			yes	vanilla
+textures	particle	sga_p.png			yes	vanilla
+textures	particle	sga_q.png			yes	vanilla
+textures	particle	sga_r.png			yes	vanilla
+textures	particle	sga_s.png			yes	vanilla
+textures	particle	sga_t.png			yes	vanilla
+textures	particle	sga_u.png			yes	vanilla
+textures	particle	sga_v.png			yes	vanilla
+textures	particle	sga_w.png			yes	vanilla
+textures	particle	sga_x.png			yes	vanilla
+textures	particle	sga_y.png			yes	vanilla
+textures	particle	sga_z.png			yes	vanilla
+textures	particle	shriek.png			yes	vanilla
+textures	particle	sonic_boom_0.png			yes	vanilla
+textures	particle	sonic_boom_1.png			yes	vanilla
+textures	particle	sonic_boom_10.png			yes	vanilla
+textures	particle	sonic_boom_11.png			yes	vanilla
+textures	particle	sonic_boom_12.png			yes	vanilla
+textures	particle	sonic_boom_13.png			yes	vanilla
+textures	particle	sonic_boom_14.png			yes	vanilla
+textures	particle	sonic_boom_15.png			yes	vanilla
+textures	particle	sonic_boom_2.png			yes	vanilla
+textures	particle	sonic_boom_3.png			yes	vanilla
+textures	particle	sonic_boom_4.png			yes	vanilla
+textures	particle	sonic_boom_5.png			yes	vanilla
+textures	particle	sonic_boom_6.png			yes	vanilla
+textures	particle	sonic_boom_7.png			yes	vanilla
+textures	particle	sonic_boom_8.png			yes	vanilla
+textures	particle	sonic_boom_9.png			yes	vanilla
+textures	particle	soul_0.png			yes	vanilla
+textures	particle	soul_1.png			yes	vanilla
+textures	particle	soul_10.png			yes	vanilla
+textures	particle	soul_2.png			yes	vanilla
+textures	particle	soul_3.png			yes	vanilla
+textures	particle	soul_4.png			yes	vanilla
+textures	particle	soul_5.png			yes	vanilla
+textures	particle	soul_6.png			yes	vanilla
+textures	particle	soul_7.png			yes	vanilla
+textures	particle	soul_8.png			yes	vanilla
+textures	particle	soul_9.png			yes	vanilla
+textures	particle	soul_fire_flame.png			yes	vanilla
+textures	particle	spark_0.png			yes	vanilla
+textures	particle	spark_1.png			yes	vanilla
+textures	particle	spark_2.png			yes	vanilla
+textures	particle	spark_3.png			yes	vanilla
+textures	particle	spark_4.png			yes	vanilla
+textures	particle	spark_5.png			yes	vanilla
+textures	particle	spark_6.png			yes	vanilla
+textures	particle	spark_7.png			yes	vanilla
+textures	particle	spell_0.png			yes	vanilla
+textures	particle	spell_1.png			yes	vanilla
+textures	particle	spell_2.png			yes	vanilla
+textures	particle	spell_3.png			yes	vanilla
+textures	particle	spell_4.png			yes	vanilla
+textures	particle	spell_5.png			yes	vanilla
+textures	particle	spell_6.png			yes	vanilla
+textures	particle	spell_7.png			yes	vanilla
+textures	particle	splash_0.png			yes	vanilla
+textures	particle	splash_1.png			yes	vanilla
+textures	particle	splash_2.png			yes	vanilla
+textures	particle	splash_3.png			yes	vanilla
+textures	particle	sweep_0.png			yes	vanilla
+textures	particle	sweep_1.png			yes	vanilla
+textures	particle	sweep_2.png			yes	vanilla
+textures	particle	sweep_3.png			yes	vanilla
+textures	particle	sweep_4.png			yes	vanilla
+textures	particle	sweep_5.png			yes	vanilla
+textures	particle	sweep_6.png			yes	vanilla
+textures	particle	sweep_7.png			yes	vanilla
+textures	particle	vibration.png			yes	vanilla
+textures	particle	vibration.png.mcmeta			yes	vanilla
