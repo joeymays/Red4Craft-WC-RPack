@@ -5549,10 +5549,10 @@ textures	entity	guardian_beam.png
 textures	entity	guardian_elder.png				
 textures	entity	hoglin	hoglin.png			
 textures	entity	hoglin	zoglin.png			
-textures	entity	horse	armor		horse_armor_diamond.png	
-textures	entity	horse	armor		horse_armor_gold.png	
-textures	entity	horse	armor		horse_armor_iron.png	
-textures	entity	horse	armor		horse_armor_leather.png	
+textures	entity	horse	armor	horse_armor_diamond.png		
+textures	entity	horse	armor	horse_armor_gold.png		
+textures	entity	horse	armor	horse_armor_iron.png		
+textures	entity	horse	armor	horse_armor_leather.png		
 textures	entity	horse	donkey.png			
 textures	entity	horse	horse_black.png			
 textures	entity	horse	horse_brown.png			
@@ -5583,23 +5583,23 @@ textures	entity	iron_golem	iron_golem_crackiness_medium.png
 textures	entity	lead_knot.png				
 textures	entity	llama	brown.png			
 textures	entity	llama	creamy.png			
-textures	entity	llama	decor		black.png	
-textures	entity	llama	decor		blue.png	
-textures	entity	llama	decor		brown.png	
-textures	entity	llama	decor		cyan.png	
-textures	entity	llama	decor		gray.png	
-textures	entity	llama	decor		green.png	
-textures	entity	llama	decor		light_blue.png	
-textures	entity	llama	decor		light_gray.png	
-textures	entity	llama	decor		lime.png	
-textures	entity	llama	decor		magenta.png	
-textures	entity	llama	decor		orange.png	
-textures	entity	llama	decor		pink.png	
-textures	entity	llama	decor		purple.png	
-textures	entity	llama	decor		red.png	
-textures	entity	llama	decor		trader_llama.png	
-textures	entity	llama	decor		white.png	
-textures	entity	llama	decor		yellow.png	
+textures	entity	llama	decor	black.png		
+textures	entity	llama	decor	blue.png		
+textures	entity	llama	decor	brown.png		
+textures	entity	llama	decor	cyan.png		
+textures	entity	llama	decor	gray.png		
+textures	entity	llama	decor	green.png		
+textures	entity	llama	decor	light_blue.png		
+textures	entity	llama	decor	light_gray.png		
+textures	entity	llama	decor	lime.png		
+textures	entity	llama	decor	magenta.png		
+textures	entity	llama	decor	orange.png		
+textures	entity	llama	decor	pink.png		
+textures	entity	llama	decor	purple.png		
+textures	entity	llama	decor	red.png		
+textures	entity	llama	decor	trader_llama.png		
+textures	entity	llama	decor	white.png		
+textures	entity	llama	decor	yellow.png		
 textures	entity	llama	gray.png			
 textures	entity	llama	spit.png			
 textures	entity	llama	white.png			
@@ -5727,40 +5727,40 @@ textures	entity	tadpole	tadpole.png
 textures	entity	trident.png				
 textures	entity	trident_riptide.png				
 textures	entity	turtle	big_sea_turtle.png			
-textures	entity	villager	profession		armorer.png	
-textures	entity	villager	profession		butcher.png	
-textures	entity	villager	profession		butcher.png.mcmeta	
-textures	entity	villager	profession		cartographer.png	
-textures	entity	villager	profession		cleric.png	
-textures	entity	villager	profession		farmer.png	
-textures	entity	villager	profession		farmer.png.mcmeta	
-textures	entity	villager	profession		fisherman.png	
-textures	entity	villager	profession		fisherman.png.mcmeta	
-textures	entity	villager	profession		fletcher.png	
-textures	entity	villager	profession		fletcher.png.mcmeta	
-textures	entity	villager	profession		leatherworker.png	
-textures	entity	villager	profession		librarian.png	
-textures	entity	villager	profession		librarian.png.mcmeta	
-textures	entity	villager	profession		mason.png	
-textures	entity	villager	profession		nitwit.png	
-textures	entity	villager	profession		shepherd.png	
-textures	entity	villager	profession		shepherd.png.mcmeta	
-textures	entity	villager	profession		toolsmith.png	
-textures	entity	villager	profession		weaponsmith.png	
-textures	entity	villager	profession_level		diamond.png	
-textures	entity	villager	profession_level		emerald.png	
-textures	entity	villager	profession_level		gold.png	
-textures	entity	villager	profession_level		iron.png	
-textures	entity	villager	profession_level		stone.png	
-textures	entity	villager	type		desert.png	
-textures	entity	villager	type		desert.png.mcmeta	
-textures	entity	villager	type		jungle.png	
-textures	entity	villager	type		plains.png	
-textures	entity	villager	type		savanna.png	
-textures	entity	villager	type		snow.png	
-textures	entity	villager	type		snow.png.mcmeta	
-textures	entity	villager	type		swamp.png	
-textures	entity	villager	type		taiga.png	
+textures	entity	villager	profession	armorer.png		
+textures	entity	villager	profession	butcher.png		
+textures	entity	villager	profession	butcher.png.mcmeta		
+textures	entity	villager	profession	cartographer.png		
+textures	entity	villager	profession	cleric.png		
+textures	entity	villager	profession	farmer.png		
+textures	entity	villager	profession	farmer.png.mcmeta		
+textures	entity	villager	profession	fisherman.png		
+textures	entity	villager	profession	fisherman.png.mcmeta		
+textures	entity	villager	profession	fletcher.png		
+textures	entity	villager	profession	fletcher.png.mcmeta		
+textures	entity	villager	profession	leatherworker.png		
+textures	entity	villager	profession	librarian.png		
+textures	entity	villager	profession	librarian.png.mcmeta		
+textures	entity	villager	profession	mason.png		
+textures	entity	villager	profession	nitwit.png		
+textures	entity	villager	profession	shepherd.png		
+textures	entity	villager	profession	shepherd.png.mcmeta		
+textures	entity	villager	profession	toolsmith.png		
+textures	entity	villager	profession	weaponsmith.png		
+textures	entity	villager	profession_level	diamond.png		
+textures	entity	villager	profession_level	emerald.png		
+textures	entity	villager	profession_level	gold.png		
+textures	entity	villager	profession_level	iron.png		
+textures	entity	villager	profession_level	stone.png		
+textures	entity	villager	type	desert.png		
+textures	entity	villager	type	desert.png.mcmeta		
+textures	entity	villager	type	jungle.png		
+textures	entity	villager	type	plains.png		
+textures	entity	villager	type	savanna.png		
+textures	entity	villager	type	snow.png		
+textures	entity	villager	type	snow.png.mcmeta		
+textures	entity	villager	type	swamp.png		
+textures	entity	villager	type	taiga.png		
 textures	entity	villager	villager.png			
 textures	entity	wandering_trader.png				
 textures	entity	warden	warden.png			
@@ -5819,239 +5819,239 @@ textures	environment	moon_phases.png			yes	WesterosCraftRP-1.16.5
 textures	environment	rain.png			yes	WesterosCraftRP-1.16.5
 textures	environment	snow.png			yes	WesterosCraftRP-1.16.5
 textures	environment	sun.png			yes	WesterosCraftRP-1.16.5
-textures	font	accented.png				
-textures	font	ascii.png				
-textures	font	ascii_sga.png				
-textures	font	asciillager.png				
-textures	font	nonlatin_european.png				
-textures	font	unicode_page_00.png				
-textures	font	unicode_page_01.png				
-textures	font	unicode_page_02.png				
-textures	font	unicode_page_03.png				
-textures	font	unicode_page_04.png				
-textures	font	unicode_page_05.png				
-textures	font	unicode_page_06.png				
-textures	font	unicode_page_07.png				
-textures	font	unicode_page_09.png				
-textures	font	unicode_page_0a.png				
-textures	font	unicode_page_0b.png				
-textures	font	unicode_page_0c.png				
-textures	font	unicode_page_0d.png				
-textures	font	unicode_page_0e.png				
-textures	font	unicode_page_0f.png				
-textures	font	unicode_page_10.png				
-textures	font	unicode_page_11.png				
-textures	font	unicode_page_12.png				
-textures	font	unicode_page_13.png				
-textures	font	unicode_page_14.png				
-textures	font	unicode_page_15.png				
-textures	font	unicode_page_16.png				
-textures	font	unicode_page_17.png				
-textures	font	unicode_page_18.png				
-textures	font	unicode_page_19.png				
-textures	font	unicode_page_1a.png				
-textures	font	unicode_page_1b.png				
-textures	font	unicode_page_1c.png				
-textures	font	unicode_page_1d.png				
-textures	font	unicode_page_1e.png				
-textures	font	unicode_page_1f.png				
-textures	font	unicode_page_20.png				
-textures	font	unicode_page_21.png				
-textures	font	unicode_page_22.png				
-textures	font	unicode_page_23.png				
-textures	font	unicode_page_24.png				
-textures	font	unicode_page_25.png				
-textures	font	unicode_page_26.png				
-textures	font	unicode_page_27.png				
-textures	font	unicode_page_28.png				
-textures	font	unicode_page_29.png				
-textures	font	unicode_page_2a.png				
-textures	font	unicode_page_2b.png				
-textures	font	unicode_page_2c.png				
-textures	font	unicode_page_2d.png				
-textures	font	unicode_page_2e.png				
-textures	font	unicode_page_2f.png				
-textures	font	unicode_page_30.png				
-textures	font	unicode_page_31.png				
-textures	font	unicode_page_32.png				
-textures	font	unicode_page_33.png				
-textures	font	unicode_page_34.png				
-textures	font	unicode_page_35.png				
-textures	font	unicode_page_36.png				
-textures	font	unicode_page_37.png				
-textures	font	unicode_page_38.png				
-textures	font	unicode_page_39.png				
-textures	font	unicode_page_3a.png				
-textures	font	unicode_page_3b.png				
-textures	font	unicode_page_3c.png				
-textures	font	unicode_page_3d.png				
-textures	font	unicode_page_3e.png				
-textures	font	unicode_page_3f.png				
-textures	font	unicode_page_40.png				
-textures	font	unicode_page_41.png				
-textures	font	unicode_page_42.png				
-textures	font	unicode_page_43.png				
-textures	font	unicode_page_44.png				
-textures	font	unicode_page_45.png				
-textures	font	unicode_page_46.png				
-textures	font	unicode_page_47.png				
-textures	font	unicode_page_48.png				
-textures	font	unicode_page_49.png				
-textures	font	unicode_page_4a.png				
-textures	font	unicode_page_4b.png				
-textures	font	unicode_page_4c.png				
-textures	font	unicode_page_4d.png				
-textures	font	unicode_page_4e.png				
-textures	font	unicode_page_4f.png				
-textures	font	unicode_page_50.png				
-textures	font	unicode_page_51.png				
-textures	font	unicode_page_52.png				
-textures	font	unicode_page_53.png				
-textures	font	unicode_page_54.png				
-textures	font	unicode_page_55.png				
-textures	font	unicode_page_56.png				
-textures	font	unicode_page_57.png				
-textures	font	unicode_page_58.png				
-textures	font	unicode_page_59.png				
-textures	font	unicode_page_5a.png				
-textures	font	unicode_page_5b.png				
-textures	font	unicode_page_5c.png				
-textures	font	unicode_page_5d.png				
-textures	font	unicode_page_5e.png				
-textures	font	unicode_page_5f.png				
-textures	font	unicode_page_60.png				
-textures	font	unicode_page_61.png				
-textures	font	unicode_page_62.png				
-textures	font	unicode_page_63.png				
-textures	font	unicode_page_64.png				
-textures	font	unicode_page_65.png				
-textures	font	unicode_page_66.png				
-textures	font	unicode_page_67.png				
-textures	font	unicode_page_68.png				
-textures	font	unicode_page_69.png				
-textures	font	unicode_page_6a.png				
-textures	font	unicode_page_6b.png				
-textures	font	unicode_page_6c.png				
-textures	font	unicode_page_6d.png				
-textures	font	unicode_page_6e.png				
-textures	font	unicode_page_6f.png				
-textures	font	unicode_page_70.png				
-textures	font	unicode_page_71.png				
-textures	font	unicode_page_72.png				
-textures	font	unicode_page_73.png				
-textures	font	unicode_page_74.png				
-textures	font	unicode_page_75.png				
-textures	font	unicode_page_76.png				
-textures	font	unicode_page_77.png				
-textures	font	unicode_page_78.png				
-textures	font	unicode_page_79.png				
-textures	font	unicode_page_7a.png				
-textures	font	unicode_page_7b.png				
-textures	font	unicode_page_7c.png				
-textures	font	unicode_page_7d.png				
-textures	font	unicode_page_7e.png				
-textures	font	unicode_page_7f.png				
-textures	font	unicode_page_80.png				
-textures	font	unicode_page_81.png				
-textures	font	unicode_page_82.png				
-textures	font	unicode_page_83.png				
-textures	font	unicode_page_84.png				
-textures	font	unicode_page_85.png				
-textures	font	unicode_page_86.png				
-textures	font	unicode_page_87.png				
-textures	font	unicode_page_88.png				
-textures	font	unicode_page_89.png				
-textures	font	unicode_page_8a.png				
-textures	font	unicode_page_8b.png				
-textures	font	unicode_page_8c.png				
-textures	font	unicode_page_8d.png				
-textures	font	unicode_page_8e.png				
-textures	font	unicode_page_8f.png				
-textures	font	unicode_page_90.png				
-textures	font	unicode_page_91.png				
-textures	font	unicode_page_92.png				
-textures	font	unicode_page_93.png				
-textures	font	unicode_page_94.png				
-textures	font	unicode_page_95.png				
-textures	font	unicode_page_96.png				
-textures	font	unicode_page_97.png				
-textures	font	unicode_page_98.png				
-textures	font	unicode_page_99.png				
-textures	font	unicode_page_9a.png				
-textures	font	unicode_page_9b.png				
-textures	font	unicode_page_9c.png				
-textures	font	unicode_page_9d.png				
-textures	font	unicode_page_9e.png				
-textures	font	unicode_page_9f.png				
-textures	font	unicode_page_a0.png				
-textures	font	unicode_page_a1.png				
-textures	font	unicode_page_a2.png				
-textures	font	unicode_page_a3.png				
-textures	font	unicode_page_a4.png				
-textures	font	unicode_page_a5.png				
-textures	font	unicode_page_a6.png				
-textures	font	unicode_page_a7.png				
-textures	font	unicode_page_a8.png				
-textures	font	unicode_page_a9.png				
-textures	font	unicode_page_aa.png				
-textures	font	unicode_page_ab.png				
-textures	font	unicode_page_ac.png				
-textures	font	unicode_page_ad.png				
-textures	font	unicode_page_ae.png				
-textures	font	unicode_page_af.png				
-textures	font	unicode_page_b0.png				
-textures	font	unicode_page_b1.png				
-textures	font	unicode_page_b2.png				
-textures	font	unicode_page_b3.png				
-textures	font	unicode_page_b4.png				
-textures	font	unicode_page_b5.png				
-textures	font	unicode_page_b6.png				
-textures	font	unicode_page_b7.png				
-textures	font	unicode_page_b8.png				
-textures	font	unicode_page_b9.png				
-textures	font	unicode_page_ba.png				
-textures	font	unicode_page_bb.png				
-textures	font	unicode_page_bc.png				
-textures	font	unicode_page_bd.png				
-textures	font	unicode_page_be.png				
-textures	font	unicode_page_bf.png				
-textures	font	unicode_page_c0.png				
-textures	font	unicode_page_c1.png				
-textures	font	unicode_page_c2.png				
-textures	font	unicode_page_c3.png				
-textures	font	unicode_page_c4.png				
-textures	font	unicode_page_c5.png				
-textures	font	unicode_page_c6.png				
-textures	font	unicode_page_c7.png				
-textures	font	unicode_page_c8.png				
-textures	font	unicode_page_c9.png				
-textures	font	unicode_page_ca.png				
-textures	font	unicode_page_cb.png				
-textures	font	unicode_page_cc.png				
-textures	font	unicode_page_cd.png				
-textures	font	unicode_page_ce.png				
-textures	font	unicode_page_cf.png				
-textures	font	unicode_page_d0.png				
-textures	font	unicode_page_d1.png				
-textures	font	unicode_page_d2.png				
-textures	font	unicode_page_d3.png				
-textures	font	unicode_page_d4.png				
-textures	font	unicode_page_d5.png				
-textures	font	unicode_page_d6.png				
-textures	font	unicode_page_d7.png				
-textures	font	unicode_page_f9.png				
-textures	font	unicode_page_fa.png				
-textures	font	unicode_page_fb.png				
-textures	font	unicode_page_fc.png				
-textures	font	unicode_page_fd.png				
-textures	font	unicode_page_fe.png				
-textures	font	unicode_page_ff.png				
+textures	font	accented.png			yes	vanilla
+textures	font	ascii.png			yes	vanilla
+textures	font	ascii_sga.png			yes	vanilla
+textures	font	asciillager.png			yes	vanilla
+textures	font	nonlatin_european.png			yes	vanilla
+textures	font	unicode_page_00.png			yes	vanilla
+textures	font	unicode_page_01.png			yes	vanilla
+textures	font	unicode_page_02.png			yes	vanilla
+textures	font	unicode_page_03.png			yes	vanilla
+textures	font	unicode_page_04.png			yes	vanilla
+textures	font	unicode_page_05.png			yes	vanilla
+textures	font	unicode_page_06.png			yes	vanilla
+textures	font	unicode_page_07.png			yes	vanilla
+textures	font	unicode_page_09.png			yes	vanilla
+textures	font	unicode_page_0a.png			yes	vanilla
+textures	font	unicode_page_0b.png			yes	vanilla
+textures	font	unicode_page_0c.png			yes	vanilla
+textures	font	unicode_page_0d.png			yes	vanilla
+textures	font	unicode_page_0e.png			yes	vanilla
+textures	font	unicode_page_0f.png			yes	vanilla
+textures	font	unicode_page_10.png			yes	vanilla
+textures	font	unicode_page_11.png			yes	vanilla
+textures	font	unicode_page_12.png			yes	vanilla
+textures	font	unicode_page_13.png			yes	vanilla
+textures	font	unicode_page_14.png			yes	vanilla
+textures	font	unicode_page_15.png			yes	vanilla
+textures	font	unicode_page_16.png			yes	vanilla
+textures	font	unicode_page_17.png			yes	vanilla
+textures	font	unicode_page_18.png			yes	vanilla
+textures	font	unicode_page_19.png			yes	vanilla
+textures	font	unicode_page_1a.png			yes	vanilla
+textures	font	unicode_page_1b.png			yes	vanilla
+textures	font	unicode_page_1c.png			yes	vanilla
+textures	font	unicode_page_1d.png			yes	vanilla
+textures	font	unicode_page_1e.png			yes	vanilla
+textures	font	unicode_page_1f.png			yes	vanilla
+textures	font	unicode_page_20.png			yes	vanilla
+textures	font	unicode_page_21.png			yes	vanilla
+textures	font	unicode_page_22.png			yes	vanilla
+textures	font	unicode_page_23.png			yes	vanilla
+textures	font	unicode_page_24.png			yes	vanilla
+textures	font	unicode_page_25.png			yes	vanilla
+textures	font	unicode_page_26.png			yes	vanilla
+textures	font	unicode_page_27.png			yes	vanilla
+textures	font	unicode_page_28.png			yes	vanilla
+textures	font	unicode_page_29.png			yes	vanilla
+textures	font	unicode_page_2a.png			yes	vanilla
+textures	font	unicode_page_2b.png			yes	vanilla
+textures	font	unicode_page_2c.png			yes	vanilla
+textures	font	unicode_page_2d.png			yes	vanilla
+textures	font	unicode_page_2e.png			yes	vanilla
+textures	font	unicode_page_2f.png			yes	vanilla
+textures	font	unicode_page_30.png			yes	vanilla
+textures	font	unicode_page_31.png			yes	vanilla
+textures	font	unicode_page_32.png			yes	vanilla
+textures	font	unicode_page_33.png			yes	vanilla
+textures	font	unicode_page_34.png			yes	vanilla
+textures	font	unicode_page_35.png			yes	vanilla
+textures	font	unicode_page_36.png			yes	vanilla
+textures	font	unicode_page_37.png			yes	vanilla
+textures	font	unicode_page_38.png			yes	vanilla
+textures	font	unicode_page_39.png			yes	vanilla
+textures	font	unicode_page_3a.png			yes	vanilla
+textures	font	unicode_page_3b.png			yes	vanilla
+textures	font	unicode_page_3c.png			yes	vanilla
+textures	font	unicode_page_3d.png			yes	vanilla
+textures	font	unicode_page_3e.png			yes	vanilla
+textures	font	unicode_page_3f.png			yes	vanilla
+textures	font	unicode_page_40.png			yes	vanilla
+textures	font	unicode_page_41.png			yes	vanilla
+textures	font	unicode_page_42.png			yes	vanilla
+textures	font	unicode_page_43.png			yes	vanilla
+textures	font	unicode_page_44.png			yes	vanilla
+textures	font	unicode_page_45.png			yes	vanilla
+textures	font	unicode_page_46.png			yes	vanilla
+textures	font	unicode_page_47.png			yes	vanilla
+textures	font	unicode_page_48.png			yes	vanilla
+textures	font	unicode_page_49.png			yes	vanilla
+textures	font	unicode_page_4a.png			yes	vanilla
+textures	font	unicode_page_4b.png			yes	vanilla
+textures	font	unicode_page_4c.png			yes	vanilla
+textures	font	unicode_page_4d.png			yes	vanilla
+textures	font	unicode_page_4e.png			yes	vanilla
+textures	font	unicode_page_4f.png			yes	vanilla
+textures	font	unicode_page_50.png			yes	vanilla
+textures	font	unicode_page_51.png			yes	vanilla
+textures	font	unicode_page_52.png			yes	vanilla
+textures	font	unicode_page_53.png			yes	vanilla
+textures	font	unicode_page_54.png			yes	vanilla
+textures	font	unicode_page_55.png			yes	vanilla
+textures	font	unicode_page_56.png			yes	vanilla
+textures	font	unicode_page_57.png			yes	vanilla
+textures	font	unicode_page_58.png			yes	vanilla
+textures	font	unicode_page_59.png			yes	vanilla
+textures	font	unicode_page_5a.png			yes	vanilla
+textures	font	unicode_page_5b.png			yes	vanilla
+textures	font	unicode_page_5c.png			yes	vanilla
+textures	font	unicode_page_5d.png			yes	vanilla
+textures	font	unicode_page_5e.png			yes	vanilla
+textures	font	unicode_page_5f.png			yes	vanilla
+textures	font	unicode_page_60.png			yes	vanilla
+textures	font	unicode_page_61.png			yes	vanilla
+textures	font	unicode_page_62.png			yes	vanilla
+textures	font	unicode_page_63.png			yes	vanilla
+textures	font	unicode_page_64.png			yes	vanilla
+textures	font	unicode_page_65.png			yes	vanilla
+textures	font	unicode_page_66.png			yes	vanilla
+textures	font	unicode_page_67.png			yes	vanilla
+textures	font	unicode_page_68.png			yes	vanilla
+textures	font	unicode_page_69.png			yes	vanilla
+textures	font	unicode_page_6a.png			yes	vanilla
+textures	font	unicode_page_6b.png			yes	vanilla
+textures	font	unicode_page_6c.png			yes	vanilla
+textures	font	unicode_page_6d.png			yes	vanilla
+textures	font	unicode_page_6e.png			yes	vanilla
+textures	font	unicode_page_6f.png			yes	vanilla
+textures	font	unicode_page_70.png			yes	vanilla
+textures	font	unicode_page_71.png			yes	vanilla
+textures	font	unicode_page_72.png			yes	vanilla
+textures	font	unicode_page_73.png			yes	vanilla
+textures	font	unicode_page_74.png			yes	vanilla
+textures	font	unicode_page_75.png			yes	vanilla
+textures	font	unicode_page_76.png			yes	vanilla
+textures	font	unicode_page_77.png			yes	vanilla
+textures	font	unicode_page_78.png			yes	vanilla
+textures	font	unicode_page_79.png			yes	vanilla
+textures	font	unicode_page_7a.png			yes	vanilla
+textures	font	unicode_page_7b.png			yes	vanilla
+textures	font	unicode_page_7c.png			yes	vanilla
+textures	font	unicode_page_7d.png			yes	vanilla
+textures	font	unicode_page_7e.png			yes	vanilla
+textures	font	unicode_page_7f.png			yes	vanilla
+textures	font	unicode_page_80.png			yes	vanilla
+textures	font	unicode_page_81.png			yes	vanilla
+textures	font	unicode_page_82.png			yes	vanilla
+textures	font	unicode_page_83.png			yes	vanilla
+textures	font	unicode_page_84.png			yes	vanilla
+textures	font	unicode_page_85.png			yes	vanilla
+textures	font	unicode_page_86.png			yes	vanilla
+textures	font	unicode_page_87.png			yes	vanilla
+textures	font	unicode_page_88.png			yes	vanilla
+textures	font	unicode_page_89.png			yes	vanilla
+textures	font	unicode_page_8a.png			yes	vanilla
+textures	font	unicode_page_8b.png			yes	vanilla
+textures	font	unicode_page_8c.png			yes	vanilla
+textures	font	unicode_page_8d.png			yes	vanilla
+textures	font	unicode_page_8e.png			yes	vanilla
+textures	font	unicode_page_8f.png			yes	vanilla
+textures	font	unicode_page_90.png			yes	vanilla
+textures	font	unicode_page_91.png			yes	vanilla
+textures	font	unicode_page_92.png			yes	vanilla
+textures	font	unicode_page_93.png			yes	vanilla
+textures	font	unicode_page_94.png			yes	vanilla
+textures	font	unicode_page_95.png			yes	vanilla
+textures	font	unicode_page_96.png			yes	vanilla
+textures	font	unicode_page_97.png			yes	vanilla
+textures	font	unicode_page_98.png			yes	vanilla
+textures	font	unicode_page_99.png			yes	vanilla
+textures	font	unicode_page_9a.png			yes	vanilla
+textures	font	unicode_page_9b.png			yes	vanilla
+textures	font	unicode_page_9c.png			yes	vanilla
+textures	font	unicode_page_9d.png			yes	vanilla
+textures	font	unicode_page_9e.png			yes	vanilla
+textures	font	unicode_page_9f.png			yes	vanilla
+textures	font	unicode_page_a0.png			yes	vanilla
+textures	font	unicode_page_a1.png			yes	vanilla
+textures	font	unicode_page_a2.png			yes	vanilla
+textures	font	unicode_page_a3.png			yes	vanilla
+textures	font	unicode_page_a4.png			yes	vanilla
+textures	font	unicode_page_a5.png			yes	vanilla
+textures	font	unicode_page_a6.png			yes	vanilla
+textures	font	unicode_page_a7.png			yes	vanilla
+textures	font	unicode_page_a8.png			yes	vanilla
+textures	font	unicode_page_a9.png			yes	vanilla
+textures	font	unicode_page_aa.png			yes	vanilla
+textures	font	unicode_page_ab.png			yes	vanilla
+textures	font	unicode_page_ac.png			yes	vanilla
+textures	font	unicode_page_ad.png			yes	vanilla
+textures	font	unicode_page_ae.png			yes	vanilla
+textures	font	unicode_page_af.png			yes	vanilla
+textures	font	unicode_page_b0.png			yes	vanilla
+textures	font	unicode_page_b1.png			yes	vanilla
+textures	font	unicode_page_b2.png			yes	vanilla
+textures	font	unicode_page_b3.png			yes	vanilla
+textures	font	unicode_page_b4.png			yes	vanilla
+textures	font	unicode_page_b5.png			yes	vanilla
+textures	font	unicode_page_b6.png			yes	vanilla
+textures	font	unicode_page_b7.png			yes	vanilla
+textures	font	unicode_page_b8.png			yes	vanilla
+textures	font	unicode_page_b9.png			yes	vanilla
+textures	font	unicode_page_ba.png			yes	vanilla
+textures	font	unicode_page_bb.png			yes	vanilla
+textures	font	unicode_page_bc.png			yes	vanilla
+textures	font	unicode_page_bd.png			yes	vanilla
+textures	font	unicode_page_be.png			yes	vanilla
+textures	font	unicode_page_bf.png			yes	vanilla
+textures	font	unicode_page_c0.png			yes	vanilla
+textures	font	unicode_page_c1.png			yes	vanilla
+textures	font	unicode_page_c2.png			yes	vanilla
+textures	font	unicode_page_c3.png			yes	vanilla
+textures	font	unicode_page_c4.png			yes	vanilla
+textures	font	unicode_page_c5.png			yes	vanilla
+textures	font	unicode_page_c6.png			yes	vanilla
+textures	font	unicode_page_c7.png			yes	vanilla
+textures	font	unicode_page_c8.png			yes	vanilla
+textures	font	unicode_page_c9.png			yes	vanilla
+textures	font	unicode_page_ca.png			yes	vanilla
+textures	font	unicode_page_cb.png			yes	vanilla
+textures	font	unicode_page_cc.png			yes	vanilla
+textures	font	unicode_page_cd.png			yes	vanilla
+textures	font	unicode_page_ce.png			yes	vanilla
+textures	font	unicode_page_cf.png			yes	vanilla
+textures	font	unicode_page_d0.png			yes	vanilla
+textures	font	unicode_page_d1.png			yes	vanilla
+textures	font	unicode_page_d2.png			yes	vanilla
+textures	font	unicode_page_d3.png			yes	vanilla
+textures	font	unicode_page_d4.png			yes	vanilla
+textures	font	unicode_page_d5.png			yes	vanilla
+textures	font	unicode_page_d6.png			yes	vanilla
+textures	font	unicode_page_d7.png			yes	vanilla
+textures	font	unicode_page_f9.png			yes	vanilla
+textures	font	unicode_page_fa.png			yes	vanilla
+textures	font	unicode_page_fb.png			yes	vanilla
+textures	font	unicode_page_fc.png			yes	vanilla
+textures	font	unicode_page_fd.png			yes	vanilla
+textures	font	unicode_page_fe.png			yes	vanilla
+textures	font	unicode_page_ff.png			yes	vanilla
 textures	gui	accessibility.png				
-textures	gui	advancements	backgrounds		adventure.png	
-textures	gui	advancements	backgrounds		end.png	
-textures	gui	advancements	backgrounds		husbandry.png	
-textures	gui	advancements	backgrounds		nether.png	
-textures	gui	advancements	backgrounds		stone.png	
+textures	gui	advancements	backgrounds	adventure.png		
+textures	gui	advancements	backgrounds	end.png		
+textures	gui	advancements	backgrounds	husbandry.png		
+textures	gui	advancements	backgrounds	nether.png		
+textures	gui	advancements	backgrounds	stone.png		
 textures	gui	advancements	tabs.png			
 textures	gui	advancements	widgets.png			
 textures	gui	advancements	window.png			
@@ -6066,10 +6066,10 @@ textures	gui	container	brewing_stand.png
 textures	gui	container	bundle.png			
 textures	gui	container	cartography_table.png			
 textures	gui	container	crafting_table.png			
-textures	gui	container	creative_inventory		tab_inventory.png	
-textures	gui	container	creative_inventory		tab_item_search.png	
-textures	gui	container	creative_inventory		tab_items.png	
-textures	gui	container	creative_inventory		tabs.png	
+textures	gui	container	creative_inventory	tab_inventory.png		
+textures	gui	container	creative_inventory	tab_item_search.png		
+textures	gui	container	creative_inventory	tab_items.png		
+textures	gui	container	creative_inventory	tabs.png		
 textures	gui	container	dispenser.png			
 textures	gui	container	enchanting_table.png			
 textures	gui	container	furnace.png			
@@ -6098,13 +6098,13 @@ textures	gui	server_selection.png
 textures	gui	social_interactions.png				
 textures	gui	spectator_widgets.png				
 textures	gui	stream_indicator.png				
-textures	gui	title	background		panorama_0.png	
-textures	gui	title	background		panorama_1.png	
-textures	gui	title	background		panorama_2.png	
-textures	gui	title	background		panorama_3.png	
-textures	gui	title	background		panorama_4.png	
-textures	gui	title	background		panorama_5.png	
-textures	gui	title	background		panorama_overlay.png	
+textures	gui	title	background	panorama_0.png		
+textures	gui	title	background	panorama_1.png		
+textures	gui	title	background	panorama_2.png		
+textures	gui	title	background	panorama_3.png		
+textures	gui	title	background	panorama_4.png		
+textures	gui	title	background	panorama_5.png		
+textures	gui	title	background	panorama_overlay.png		
 textures	gui	title	edition.png			
 textures	gui	title	minecraft.png			
 textures	gui	title	mojangstudios.png			
@@ -6616,25 +6616,25 @@ textures	item	writable_book.png
 textures	item	written_book.png				
 textures	item	yellow_candle.png				
 textures	item	yellow_dye.png				
-textures	map	map_background.png				
-textures	map	map_background_checkerboard.png				
-textures	map	map_icons.png				
-textures	misc	enchanted_item_glint.png				
-textures	misc	enchanted_item_glint.png.mcmeta				
-textures	misc	forcefield.png				
-textures	misc	nausea.png				
-textures	misc	powder_snow_outline.png				
-textures	misc	pumpkinblur.png				
-textures	misc	pumpkinblur.png.mcmeta				
-textures	misc	shadow.png				
-textures	misc	shadow.png.mcmeta				
-textures	misc	spyglass_scope.png				
-textures	misc	underwater.png				
-textures	misc	unknown_pack.png				
-textures	misc	unknown_server.png				
-textures	misc	vignette.png				
-textures	misc	vignette.png.mcmeta				
-textures	misc	white.png				
+textures	map	map_background.png			yes	vanilla
+textures	map	map_background_checkerboard.png			yes	vanilla
+textures	map	map_icons.png			yes	vanilla
+textures	misc	enchanted_item_glint.png			yes	vanilla
+textures	misc	enchanted_item_glint.png.mcmeta			yes	vanilla
+textures	misc	forcefield.png			yes	vanilla
+textures	misc	nausea.png			yes	vanilla
+textures	misc	powder_snow_outline.png			yes	vanilla
+textures	misc	pumpkinblur.png			yes	vanilla
+textures	misc	pumpkinblur.png.mcmeta			yes	vanilla
+textures	misc	shadow.png			yes	vanilla
+textures	misc	shadow.png.mcmeta			yes	vanilla
+textures	misc	spyglass_scope.png			yes	vanilla
+textures	misc	underwater.png			yes	vanilla
+textures	misc	unknown_pack.png			yes	vanilla
+textures	misc	unknown_server.png			yes	vanilla
+textures	misc	vignette.png			yes	vanilla
+textures	misc	vignette.png.mcmeta			yes	vanilla
+textures	misc	white.png			yes	vanilla
 textures	mob_effect	absorption.png				
 textures	mob_effect	bad_omen.png				
 textures	mob_effect	blindness.png				
