@@ -6098,13 +6098,13 @@ textures	gui	server_selection.png			yes	vanilla
 textures	gui	social_interactions.png			yes	vanilla
 textures	gui	spectator_widgets.png			yes	vanilla
 textures	gui	stream_indicator.png			yes	vanilla
-textures	gui	title	background	panorama_0.png	yes	vanilla
-textures	gui	title	background	panorama_1.png	yes	vanilla
-textures	gui	title	background	panorama_2.png	yes	vanilla
-textures	gui	title	background	panorama_3.png	yes	vanilla
-textures	gui	title	background	panorama_4.png	yes	vanilla
-textures	gui	title	background	panorama_5.png	yes	vanilla
-textures	gui	title	background	panorama_overlay.png	yes	vanilla
+textures	gui	title	background	panorama_0.png	yes	custom
+textures	gui	title	background	panorama_1.png	yes	custom
+textures	gui	title	background	panorama_2.png	yes	custom
+textures	gui	title	background	panorama_3.png	yes	custom
+textures	gui	title	background	panorama_4.png	yes	custom
+textures	gui	title	background	panorama_5.png	yes	custom
+textures	gui	title	background	panorama_overlay.png	yes	custom
 textures	gui	title	edition.png		yes	vanilla
 textures	gui	title	minecraft.png		yes	custom
 textures	gui	title	mojangstudios.png		yes	vanilla
