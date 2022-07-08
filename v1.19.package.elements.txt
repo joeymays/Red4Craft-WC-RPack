@@ -6106,8 +6106,8 @@ textures	gui	title	background	panorama_4.png
 textures	gui	title	background	panorama_5.png		
 textures	gui	title	background	panorama_overlay.png		
 textures	gui	title	edition.png			
-textures	gui	title	minecraft.png			
-textures	gui	title	mojangstudios.png			
+textures	gui	title	minecraft.png		yes	custom
+textures	gui	title	mojangstudios.png		yes	vanilla
 textures	gui	toasts.png				
 textures	gui	widgets.png				
 textures	gui	world_selection.png				
